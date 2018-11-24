@@ -21,7 +21,7 @@ function iLoveTheBeatles(n) {
   var text = []
   
   do {
-    text += "I love the Beatles!"
+    text = "I love the Beatles!"
     n++
   }
   while (n < 15)
