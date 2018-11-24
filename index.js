@@ -24,5 +24,5 @@ function iLoveTheBeatles(n) {
     text
     i++
   }
-  while (i <)
+  while (i < 15)
 }
