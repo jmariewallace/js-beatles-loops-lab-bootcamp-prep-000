@@ -22,5 +22,6 @@ function iLoveTheBeatles(n) {
   var i = 0
   do {
     text
+    i++
   }
 }
