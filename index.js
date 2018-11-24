@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
   return (editedFacts)
 }
  
-function iLoveTheBeatles(n) {
+function iLoveTheBeatles(number) {
   var text = []
   var i = 0
   do {
