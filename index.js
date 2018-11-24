@@ -19,12 +19,10 @@ function johnLennonFacts(facts) {
  
 function iLoveTheBeatles(n) {
   var text = []
-  
   do {
-    text.push("I love the Beatles!")
+    text.push("I love the Beatles 2!")
     n++
   }
   while (n < 15)
-  
   return text
 }
