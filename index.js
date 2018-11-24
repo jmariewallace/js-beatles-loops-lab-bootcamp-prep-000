@@ -1,1 +1,20 @@
 // add solution here
+function theBeatlesPlay(musicians, instruments) {
+  var theBand = []
+  for (let i = 0; i < musicians.length; i++) {
+    theBand.push(musicians[i] + " " + "plays" + " " + instruments[i])
+  }
+  return theBand
+}
+
+function johnLennonFacts(facts) {
+  var editedFacts = []
+  var i = 0
+  while (i < facts.length) {
+   editedFacts[i] = facts + "!!!"
+   i++
+  }
+  return (editedFacts)
+  
+}
+ 
